@@ -5,7 +5,8 @@
 # Tech skills
 # Certificates
 # Courses
- * Tester manualny - future collars
+<p>https://futurecollars.com/kursy/tester-oprogramowania/</p>
+ * <p>Tester manualny - future collars
  * Analityk danych - Alx
 # Books
 # Group on Facebook
