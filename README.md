@@ -5,7 +5,7 @@
 # Tech skills
 # Certificates
  * Tester oprogramowania: No. 2023/10/1]
- * [Analityk danych: No. ALX033002H]([https://www.alx.pl/pl/kurs-analiza-danych/](https://www.alx.pl/certyfikat/tomasz-kosakowski/c266e433b1414d0b97b8ccff1035e2a0/))
+ * [Analityk danych: No. ALX033002H](https://www.alx.pl/certyfikat/tomasz-kosakowski/c266e433b1414d0b97b8ccff1035e2a0/)
 # Courses
  * [FUTURE COLLARS: Tester oprogramowania](https://futurecollars.com/kursy/tester-oprogramowania/) 
  * [ALX: Analityk danych](https://www.alx.pl/pl/kurs-analiza-danych/)
