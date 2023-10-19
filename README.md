@@ -32,6 +32,8 @@ My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we 
  * [MATE ACADEMY Podstawy SQL](https://mate.academy/pl/courses/qa-pl)
  * [ALX: Analityk danych](https://www.alx.pl/pl/kurs-analiza-danych/)
 # Books
+ * [Sylabus ISTQB](https://getistqb.com/docs/sylabus-istqb-poziom-podstawowy/1-podstawy-testowania/)
+ * 
 # Group on Facebook
  * Tester oprogramowania - wsparcie na starcie
  * Szkolenia IT
@@ -42,6 +44,7 @@ My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we 
 # Article
  * [Czym jest Playwright](https://jaktestowac.pl/lesson/pw1-s01-2/)
  * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials)
+ * [testerzy.pl](https://testerzy.pl/artykuly/behaviour-driven-development)
 # My bug reports
 # My examples of diagrams and decisin tables
 # My examples of CSS Selectors and xPaths
