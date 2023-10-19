@@ -39,12 +39,13 @@ My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we 
  * Szkolenia IT
  * 
 # Recommended blogs
+* [testerzy.pl](https://testerzy.pl/artykuly/behaviour-driven-development)
 # Webinars
  * [Darmowe Szkolenie Testera manualnego https://www.czyitjestdlamnie.pl/](https://event.webinarjam.com/replay/30/ywnq0tqgf89t659tw16)
 # Article
  * [Czym jest Playwright](https://jaktestowac.pl/lesson/pw1-s01-2/)
  * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials)
- * [testerzy.pl](https://testerzy.pl/artykuly/behaviour-driven-development)
+ 
 # My bug reports
 # My examples of diagrams and decisin tables
 # My examples of CSS Selectors and xPaths
