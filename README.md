@@ -1,6 +1,7 @@
 # Portfolio
 #### My_Tester-s_Portfolio
 # About me
+My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we install on the mobile things.
 # Tools
  * Jira
  * Mural
