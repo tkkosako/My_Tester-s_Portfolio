@@ -27,7 +27,8 @@ My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we 
  * Tester oprogramowania: No. 2023/10/1]
  * [Analityk danych: No. ALX033002H](https://www.alx.pl/certyfikat/tomasz-kosakowski/c266e433b1414d0b97b8ccff1035e2a0/)
 # Courses
- * [FUTURE COLLARS: Tester oprogramowania](https://futurecollars.com/kursy/tester-oprogramowania/) 
+ * [FUTURE COLLARS: Tester oprogramowania](https://futurecollars.com/kursy/tester-oprogramowania/)
+ * [FUTURE COLLARS: Kurs GIT](https://futurecollars.com/kursy/git/)
  * [ALX: Analityk danych](https://www.alx.pl/pl/kurs-analiza-danych/)
 # Books
 # Group on Facebook
