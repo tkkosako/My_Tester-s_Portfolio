@@ -33,6 +33,9 @@ My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we 
  * [ALX: Analityk danych](https://www.alx.pl/pl/kurs-analiza-danych/)
 # Books
 # Group on Facebook
+ * Tester oprogramowania - wsparcie na starcie
+ * Szkolenia IT
+ * 
 # Recommended blogs
 # Webinars
  * [Darmowe Szkolenie Testera manualnego https://www.czyitjestdlamnie.pl/](https://event.webinarjam.com/replay/30/ywnq0tqgf89t659tw16)
