@@ -29,6 +29,7 @@ My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we 
 # Courses
  * [FUTURE COLLARS: Tester oprogramowania](https://futurecollars.com/kursy/tester-oprogramowania/)
  * [FUTURE COLLARS: Kurs GIT](https://futurecollars.com/kursy/git/)
+ * [MATE ACADEMY Podstawy SQL](https://mate.academy/pl/courses/qa-pl)
  * [ALX: Analityk danych](https://www.alx.pl/pl/kurs-analiza-danych/)
 # Books
 # Group on Facebook
