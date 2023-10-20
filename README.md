@@ -1,7 +1,7 @@
 # Portfolio
 #### My_Tester-s_Portfolio
 # About me
-My name is Tomasz, I'm the new manual tester software, web apps, apps wchich we install on the mobile things.
+My name is Tomasz. I am a beginner manual tester with a passion for software testing. I have completed an intensive software testing course with emphasis practical site. On this page I would like to share my achievements and gained knowledge, experiece and skills tools
 # Tools
  * Jira
  * Mural
