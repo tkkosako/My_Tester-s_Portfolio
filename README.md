@@ -40,6 +40,9 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * 
 # Recommended blogs
 * [testerzy.pl](https://testerzy.pl/artykuly/behaviour-driven-development)
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* pwicherski.gitbook.io
+* GeekON
 # Webinars
  * [Darmowe Szkolenie Testera manualnego https://www.czyitjestdlamnie.pl/](https://event.webinarjam.com/replay/30/ywnq0tqgf89t659tw16)
 # Article
