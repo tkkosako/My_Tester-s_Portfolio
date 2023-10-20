@@ -22,7 +22,6 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * Understanding how created is software
  * HTML/CSS
  * Excel
- * 
 # Certificates
  * FUTURE COLLARS: Tester oprogramowania: No. 2023/10/1]
  * ALX: [Analityk danych: No. ALX033002H](https://www.alx.pl/certyfikat/tomasz-kosakowski/c266e433b1414d0b97b8ccff1035e2a0/)
@@ -33,11 +32,9 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * [ALX: Analityk danych](https://www.alx.pl/pl/kurs-analiza-danych/)
 # Books
  * [Sylabus ISTQB](https://getistqb.com/docs/sylabus-istqb-poziom-podstawowy/1-podstawy-testowania/)
- * 
 # Group on Facebook
  * Tester oprogramowania - wsparcie na starcie
  * Szkolenia IT
- * 
 # Recommended blogs
 * [testerzy.pl](https://testerzy.pl/artykuly/behaviour-driven-development)
 * testuj.pl - Test, Bugs & Rock'n'Roll
@@ -47,10 +44,8 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * [Darmowe Szkolenie Testera manualnego https://www.czyitjestdlamnie.pl/](https://event.webinarjam.com/replay/30/ywnq0tqgf89t659tw16)
 # Article
  * [Czym jest Playwright](https://jaktestowac.pl/lesson/pw1-s01-2/)
- * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials)
- 
+ * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials) 
 # My bug reports
 * [Test strony Futurecollars](https://photos.app.goo.gl/741U454UGJ9C731o7)
 # My examples of diagrams and decisin tables
-# My examples of CSS Selectors and xPaths
 # My projects
