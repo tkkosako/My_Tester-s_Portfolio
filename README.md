@@ -46,6 +46,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * [Czym jest Playwright](https://jaktestowac.pl/lesson/pw1-s01-2/)
  * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials) 
 # My bug reports
-* [Test strony Futurecollars](https://photos.app.goo.gl/741U454UGJ9C731o7)
+* [Test strony Futurecollars- Happy path](https://photos.app.goo.gl/741U454UGJ9C731o7)
+* [Test strony academybugs.com - Bug](https://photos.app.goo.gl/VDdfL8UV7cdHRt898)
 # My examples of diagrams and decisin tables
 # My projects
