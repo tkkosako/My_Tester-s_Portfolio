@@ -1,7 +1,7 @@
 # Portfolio
 #### My_Tester-s_Portfolio
 # About me
-My name is Tomasz. I graduated master of degree management. I have worked in helpdesk, where i had to use my then experiece with buildin website, service of panel cms like wordpress and joomla. At last month I have completed an intensive software testing course with emphasis practical site.I am a beginner manual tester with a passion for software testing with good knowledge of ISTQB syllabus.  On this page I would like to share my achievements and gained knowledge, experiece and skills tools
+My name is Tomasz. I graduated with a master's degree in management. I worked in the helpdesk, where I used my experience at the time in building websites and using cms panels such as WordPress and Joomla. Last month I completed an intensive software testing course with particular emphasis on the practical side. I am an aspiring manual tester with passion for software testing and good knowledge of ISTQB syllabus. On this page I would like to share my achievements and gained knowledge, experience and tool skills.
 # Tools
  * Jira
  * Mural
