@@ -48,6 +48,6 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
 # My bug reports
 * [Test strony Futurecollars- Happy path](https://photos.app.goo.gl/741U454UGJ9C731o7)
 * [Test strony academybugs.com - Bug](https://photos.app.goo.gl/VDdfL8UV7cdHRt898)
-* [Test aplikacji ui-demo][ui-demo](https://testing-platform.czyitjestdlamnie.pl/ui-demo)(https://photos.app.goo.gl/c9jQLyHjNqxjZ9yn6)
+* [Test aplikacji ui-demo](https://photos.app.goo.gl/c9jQLyHjNqxjZ9yn6)[ui-demo](https://testing-platform.czyitjestdlamnie.pl/ui-demo)
 # My examples of diagrams and decisin tables
 # My projects
