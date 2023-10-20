@@ -3,7 +3,7 @@
 # About me
 My name is Tomasz. I graduated with a master's degree in management. I worked in the helpdesk, where I used my experience at the time in building websites and using cms panels such as WordPress and Joomla. Last month I completed an intensive software testing course with particular emphasis on the practical side. I am an aspiring manual tester with passion for software testing and good knowledge of ISTQB syllabus. On this page I would like to share my achievements and gained knowledge, experience and tool skills.
 # Tools
- * Jira - Issue tracking and project management tool
+ * Jira, Trello - Issue tracking and project management tool
  * Mural - a secure, flexible, visual work platform designed for collaboration
  * GIT - Version control system
  * Github
