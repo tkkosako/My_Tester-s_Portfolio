@@ -50,6 +50,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * [Playwright Tutorials](https://www.seleniumeasy.com/playwright-tutorials)
  
 # My bug reports
+* [Test strony Futurecollars](https://photos.google.com/photo/AF1QipO3R-WbNBdtEnoRq5XUnHtiUWTnlmYRnWa4xddz)
 # My examples of diagrams and decisin tables
 # My examples of CSS Selectors and xPaths
 # My projects
