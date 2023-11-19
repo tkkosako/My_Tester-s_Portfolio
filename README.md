@@ -9,7 +9,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * GIT - Version control system
  * Github
  * Poker Planning - Planning poker, also called Scrum poker
- * [Firebase])https://firebase.google.com/products/test-lab)[Mibile and Web APP Development Platform]
+ * [Firebase](https://firebase.google.com/products/test-lab)[Mobile and Web APP Development Platform]
 # Tech skills
  * SQL
  * SCRUM
