@@ -9,7 +9,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * GIT - Version control system
  * Github
  * Poker Planning - Planning poker, also called Scrum poker
- * [Firebase](https://firebase.google.com/products/test-lab)[Mobile and Web APP Development Platform]
+ * [Firebase](https://firebase.google.com/products/test-lab) Mobile and Web APP Development Platform
 # Tech skills
  * SQL
  * SCRUM
@@ -41,7 +41,7 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
 * testuj.pl - Test, Bugs & Rock'n'Roll
 * pwicherski.gitbook.io
 * GeekON
-* (https://devszczepaniak.pl/wprowadzenie-do-rest-api/)
+* [Rest API](https://devszczepaniak.pl/wprowadzenie-do-rest-api/)
 # Webinars
  * [Darmowe Szkolenie Testera manualnego https://www.czyitjestdlamnie.pl/](https://event.webinarjam.com/replay/30/ywnq0tqgf89t659tw16)
  * [Darmowe szkolenie z technologi mobilnych](https://mobileacademy.pl/)
