@@ -54,3 +54,4 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
 * [Test aplikacji ui-demo](https://photos.app.goo.gl/c9jQLyHjNqxjZ9yn6) [Ui-Demo](https://testing-platform.czyitjestdlamnie.pl/ui-demo)
 # My examples of diagrams and decisin tables
 # My projects
+*w trakcie
