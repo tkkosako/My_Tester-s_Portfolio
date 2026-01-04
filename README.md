@@ -7,9 +7,10 @@ My name is Tomasz. I graduated with a master's degree in management. I worked in
  * Trello - Web application for managing kanban boards
  * Mural - a secure, flexible, visual work platform designed for collaboration
  * GIT - Version control system
- * Github
+ * Github - is a code hosting platform for version control and collaboration
  * Poker Planning - Planning poker, also called Scrum poker
  * [Firebase](https://firebase.google.com/products/test-lab) Mobile and Web APP Development Platform
+ * Screenpresso - screen grab tool with built-in image editor
 # Tech skills
  * SQL
  * SCRUM
